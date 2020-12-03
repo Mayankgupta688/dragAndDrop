@@ -1,0 +1,22 @@
+.drophere {
+    margin-left: 100px;
+    border: 1px solid red;
+    padding: 5px;
+  }
+
+  .draghere {
+    width: 200px;
+    height: 50px;
+    background: green;
+    text-align: center;
+    line-height: 50px;
+    display: inline-block;
+  }
+  .ui-draggable-dragging {
+    background: blue;
+  }
+
+  .hoverClass {
+    border: 2px solid red;
+    background: black;
+  }
